@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #EB6440;
+    font-family: 'Raleway', sans-serif;
+}
+#learn
+{
+    background-color: #EB6440;
+    padding: 5%;
+    font-family: 'Raleway' , sans-serif;
+    color: white;
+    text-align: center;
+}
+#videocontainer
+{
+    background-color: #EB6440;
+}
+#rows
+{
+    background-color: white;
+    color: black;
+    font-family: 'Raleway',sans-serif;
+    border-radius: 5px;
+}

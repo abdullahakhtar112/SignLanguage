@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #EB6440;
+
+}
+#one
+{
+padding: 4%;
+background-color: #EB6440;
+font-family: 'Raleway', sans-serif;
+
+}
+#stt
+{
+    background-color: #EB6440;
+    padding: 10%;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+
+}
+#stt1
+{
+padding: 5%;
+color: white;
+border-radius: 5px;
+font-family: 'Raleway', sans-serif;
+
+
+}
+#stt2
+{
+    padding: 5%;
+    color: black;
+    border-radius: 5px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#stop
+{
+    display: none;
+    font-family: 'Raleway', sans-serif;
+}

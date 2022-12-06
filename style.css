@@ -1,0 +1,210 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway' , sans-serif;
+}
+.navbar{
+  background-color: #EB6440
+}
+#first
+{
+    padding: 1%;
+    background-color: #EB6440;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+#logo
+{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+}
+.navbarlist
+{
+    margin-left: 30%;
+}
+
+.navlink
+{
+    font-size: larger;
+    margin-left: 10%;
+}
+#waving
+{
+    border-radius: 50%;
+    height: 85%;
+    width: 75%;
+}
+#second
+{
+    padding: 9% 6%;
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#about
+{
+  font-size: large;
+  font-family: 'Raleway', sans-serif;
+}
+
+.icon{
+    color: #EB6440;
+}
+
+#third
+{
+    text-align: center;
+    padding: 3%;
+    background-color: #EB6440;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+hr{
+    width: 80%;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    padding: 4%;
+}
+
+.icons{
+    padding: 5%;
+    text-decoration: none;
+    color: blue;
+}
+
+#popup{
+   display: none;
+   background-color: white;
+   color: black;
+   border-radius: 6px;
+}
+
+.tooltipp {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tooltipp .tooltipptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .tooltipp:hover .tooltipptext {
+    visibility: visible;
+  }
+
+
+
+.tooltip1 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tooltip1 .tooltiptext1 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .tooltip1:hover .tooltiptext1 {
+    visibility: visible;
+  }
+
+  
+.tooltip2 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tooltip2 .tooltiptext2 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .tooltip2:hover .tooltiptext2 {
+    visibility: visible;
+  }
+
+
+  .tooltip3 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tooltip3 .tooltiptext3 {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .tooltip3:hover .tooltiptext3 {
+    visibility: visible;
+  }
+
+  #about
+  {
+    text-align: left;
+    line-height: 34px;
+  }
+  @media screen and (max-width: 600px)
+  {
+    .navlink{
+      float: right;
+    }
+    #about
+    {
+      text-align: center;
+    }
+  }
